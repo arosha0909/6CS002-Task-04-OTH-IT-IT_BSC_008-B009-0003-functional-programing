@@ -2,13 +2,6 @@ package files;
 
 import java.io.*;
 
-/******************************************************************************
- * This program sorts the lines of a file so that the shortest lines are 
- * output last.
- *  
- * @author Dr Kevan Buckley, University of Wolverhampton, 2019
- ******************************************************************************/
-
 public class Files05 {
 
   public static void main(String[] args) throws Exception {
