@@ -3,12 +3,6 @@ package files;
 import java.io.*;
 import java.util.*;
 
-/******************************************************************************
- * This program demonstrates using Optional String.
- * 
- * @author Dr Kevan Buckley, University of Wolverhampton, 2019
- ******************************************************************************/
-
 public class Files07 {
 
   public static void main(String[] args) throws Exception {
