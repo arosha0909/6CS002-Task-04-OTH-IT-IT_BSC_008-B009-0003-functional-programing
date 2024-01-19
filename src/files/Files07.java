@@ -13,7 +13,7 @@ public class Files07 {
 
   public static void main(String[] args) throws Exception {
     BufferedReader r  = 
-      new BufferedReader(new FileReader("data/wolf-fox.txt"));
+      new BufferedReader(new FileReader("data/Cat-Tiger.txt"));
 
     Optional <String >result = 
       r.lines()
